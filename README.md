@@ -21,7 +21,7 @@ npx whoisasx
 ### Highlights
 
 > - 700+ DSA problems solved in C++ : [leetcode](https://leetcode.com/u/adilshaikh4064/)
-> - Strong in **React**, **TypeScript**, **Next.js**, **WebSockets**, and **Redis**
+> - Hands on **JavaScript**, **TypeScript**, **C++**, **React**, **Next.js**, **WebSockets**, **Tailwind**, **Prisma**, **Express**
 > - Working on personal brand: [asxcode.com](https://asxcode.com) — building in public 🚢
 
 <h2 align="left">🌐 About Me </h2>
