@@ -60,7 +60,3 @@ Currently crafting [`Synk`](https://github.com/whoisasx/synk) — an AI-first se
 
 ---
 
-### ⚡ Terminal Flex
-
-```bash
-npx hi-whoisasx
