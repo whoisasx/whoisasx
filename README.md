@@ -20,7 +20,7 @@ npx whoisasx
 ##
 ### Highlights
 
-> - 700+ DSA problems solved in C++
+> - 700+ DSA problems solved in C++ : [leetcode](https://leetcode.com/u/adilshaikh4064/)
 > - Strong in **React**, **TypeScript**, **Next.js**, **WebSockets**, and **Redis**
 > - Working on personal brand: [asxcode.com](https://asxcode.com) — building in public 🚢
 
