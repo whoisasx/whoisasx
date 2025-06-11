@@ -1,43 +1,61 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adil Shaikh</h1>
 <h3 align="center">FullStack Dev | Problem Solver | Web3 Curious | Build and Ship</h3>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=whoisasx&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=whoisasx&label=Profile%20views&color=d4b3df&style=flat-square" alt="whoisasx" /> 
 </p>
+<img align="right" alt="coding" height="460px" src="https://raw.githubusercontent.com/whoisasx/whoisasx/main/coding.gif" />
 
-<img align="right" alt="coding" height="400" src="https://raw.githubusercontent.com/whoisasx/whoisasx/main/coding.gif" />
+- 🚀 I’m currently building [@Synk](https://asxcode.com/) — your thoughts, structured.
+- 🧠 Love solving problems, fast shipping, and thoughtful systems.
+- 🤝 Looking to collaborate on **Web3 tools**, **infra** or **DevOps** projects.
+- 📫 Reach me: **connect.asxcode@gmail.com**
 
-- 🚀 I’m currently building **[Synk](https://asxcode.com)** — a second brain for the internet.
-- 💼 Actively looking for **freelance gigs**, **remote roles**, or **internships**.
-- 🧠 I love solving problems and building things fast and clean.
-- 📫 Reach me at: **connect.asxcode@gmail.com**
+##
+In your terminal:
+```bash
+npx whoisasx
+```
 
----
+##
+### Highlights
 
-### 💡 Quote I live by
-> “Code is just structured thought. I’m learning to think better.”  
-> — *Adil Shaikh*
+> - 700+ DSA problems solved in C++
+> - Strong in **React**, **TypeScript**, **Next.js**, **WebSockets**, and **Redis**
+> - Working on personal brand: [asxcode.com](https://asxcode.com) — building in public 🚢
 
----
+<h2 align="left">🌐 About Me </h2>
 
-### 🧰 Tech Stack
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Web3](https://img.shields.io/badge/-Web3-FF9900?style=for-the-badge&logo=ethereum)
-![DevOps](https://img.shields.io/badge/-DevOps-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+I'm passionate about building fast, elegant, and purposeful web apps. Love diving into new tech, connecting ideas, and solving real-world problems. When I’m not writing code, I’m probably refining workflows, automating boring stuff, or guiding others in their dev journey.
 
----
-
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilshaikh4064)
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/whoisasx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilshaikh4064) 
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/whoisasx) 
 [![Website](https://img.shields.io/badge/Portfolio-asxcode.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://asxcode.com)
 
+<h2 align="left">🛠️ Languages and Tools </h2>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+##
+<a href="https://github.com/whoisasx/github-readme-stats">
+  <img alt="Adil's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=whoisasx&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="450" />
+</a>
+<a href="https://github.com/whoisasx/github-readme-stats">
+  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whoisasx&layout=compact&theme=tokyonight&hide_border=true" width="350" />
+</a>
+
+[![Adil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whoisasx&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
+<h3 align="center">“Code is just structured thought. I’m learning to think better.”</h3>
+<p align="center">— Adil Shaikh</p>
