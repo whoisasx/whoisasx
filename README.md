@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I’m Adil 👋
+### aka [`asxcode`](https://asxcode.com) — I build systems & ship clean bugs 🧠💻
 
-<!--
-**whoisasx/whoisasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Fullstack Developer | Problem Solver | Systems Thinker  
+- 🚀 700+ DSA problems solved (C++)  
+- 🧰 JavaScript • TypeScript • React • Node.js • Next.js • C++  
+- ☁️ Learning DevOps & Web3 | Building scalable systems  
+- 🛠️ Currently building: [`Synk`](https://github.com/asxcode/synk) – your second brain  
+- 🌐 Founder of [`asxcode.com`](https://asxcode.com)  
+- 🔥 I write bugs so elegant, even StackOverflow claps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack & Tools
+
+```ts
+Languages:  C++, TypeScript, JavaScript, Python  
+Frontend:   React, Next.js, Tailwind CSS  
+Backend:    Node.js, Express, WebSockets, Prisma  
+DevOps:     Docker, GitHub Actions, EC2, Nginx  
+Database:   PostgreSQL, Redis, MongoDB  
+Other:      Git, Vercel, Figma, ChatGPT
