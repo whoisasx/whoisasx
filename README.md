@@ -2,8 +2,6 @@
 <h3 align="center">aka <code>whoisasx</code> — building fast, thinking deep, breaking loops</h3>
 
 <p align="center">
-  <img src="https://github.com/whoisasx/whoisasx/blob/main/coding.png
-" alt="whoisasx" />
 </p>
 
 <p align="center">
