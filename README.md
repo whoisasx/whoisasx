@@ -2,7 +2,7 @@
 <h3 align="center">aka <code>whoisasx</code> — building fast, thinking deep, breaking loops</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=whoisasx&label=Profile%20views&color=blueviolet&style=flat" alt="whoisasx" />
+  <img src="https://komarev.com/ghpvc/?username=whoisasx&label=Profile%20views&color=blueviolet&style=flat](https://github.com/whoisasx/whoisasx/blob/main/coding.png)" alt="whoisasx" />
 </p>
 
 <p align="center">
