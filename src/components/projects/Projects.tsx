@@ -36,7 +36,7 @@ const projectsData = [
 		title: "Orbix",
 		description: `Your world of crypto, in one wallet.`,
 		longDescription: `Orbix is a next-generation Web3 wallet designed for simplicity, security, and control. Manage your crypto, NFTs, and digital identity — all in one beautifully unified experience. With Orbix, your assets truly revolve around you.`,
-		image: "/orbix-landing.png",
+		image: "/orbapp.png",
 		liveUrl: "https://orbixwallet.vercel.app/",
 		githubUrl: "https://github.com/whoisasx/Orbix",
 		videoUrl: "#",
