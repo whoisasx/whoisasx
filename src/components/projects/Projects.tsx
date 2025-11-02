@@ -45,7 +45,7 @@ const projectsData = [
 		featured: true,
 	},
 	{
-		id: 2,
+		id: 3,
 		title: "Memora",
 		description:
 			"An intelligent note-taking and memory management application with AI-powered organization and search capabilities.",
@@ -64,6 +64,19 @@ const projectsData = [
 			"Fastapi",
 			"Opensearch",
 		],
+		category: "AI Application",
+		featured: true,
+	},
+	{
+		id: 4,
+		title: "OrbApp",
+		description: `Your world of crypto, in one DAPP.`,
+		longDescription: `Orbix is a next-generation Web3 wallet designed for simplicity, security, and control. Manage your crypto, NFTs, and digital identity — all in one beautifully unified experience. With Orbix, your assets truly revolve around you.`,
+		image: "/orbix-landing.png",
+		liveUrl: "https://orbapp.vercel.app/",
+		githubUrl: "https://github.com/whoisasx/Orbapp",
+		videoUrl: "#",
+		tech: ["React", "Node.js", "Web3.js", "Tailwind"],
 		category: "AI Application",
 		featured: true,
 	},

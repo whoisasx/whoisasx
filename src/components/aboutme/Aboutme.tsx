@@ -241,7 +241,7 @@ export default function Aboutme() {
 						>
 							{[
 								{ number: "1000+", label: "Problems Solved" },
-								{ number: "2+", label: "Projects Built" },
+								{ number: "4+", label: "Projects Built" },
 								{ number: "0+", label: "Fresher" },
 							].map((stat, index) => (
 								<div key={index} className="text-center">
