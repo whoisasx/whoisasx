@@ -5,17 +5,13 @@ import { useMemo, useState, useEffect } from "react";
 import { SkillIcon, IconKey } from "./SkillIcon";
 
 const skillsData: Array<{ name: string; icon: IconKey; category: string }> = [
-	{ name: "TypeScript", icon: "ts", category: "frontend" },
-	{ name: "Next.js", icon: "next", category: "frontend" },
-	{ name: "C++", icon: "cpp", category: "backend" },
-	{ name: "Express", icon: "exp", category: "backend" },
-	{ name: "WebSocket", icon: "ws", category: "backend" },
-	{ name: "FastAPI", icon: "fast", category: "backend" },
+	{ name: "Languages", icon: "languages", category: "languages" },
+	{ name: "MERN Stack", icon: "mern", category: "fullstack" },
+	{ name: "Next.js", icon: "next", category: "framework" },
 	{ name: "PostgreSQL", icon: "pg", category: "database" },
-	{ name: "Docker", icon: "dock", category: "devops" },
-	{ name: "Kubernetes", icon: "k8s", category: "devops" },
-	{ name: "Solana", icon: "sol", category: "blockchain" },
-	{ name: "Ethereum", icon: "ether", category: "blockchain" },
+	// { name: "FastAPI", icon: "fast", category: "framework" },
+	{ name: "DevOps", icon: "devops", category: "devops" },
+	{ name: "Web3", icon: "web3", category: "blockchain" },
 ];
 
 const containerVariants = {
@@ -232,7 +228,7 @@ export default function Aboutme() {
 						>
 							{[
 								{ number: "1000+", label: "Problems Solved" },
-								{ number: "4+", label: "Projects Built" },
+								{ number: "3+", label: "Projects Built" },
 								{ number: "0+", label: "Fresher" },
 							].map((stat, index) => (
 								<div key={index} className="text-center">

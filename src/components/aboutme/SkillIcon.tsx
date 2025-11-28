@@ -22,13 +22,14 @@ import {
 	SiWeb3Dotjs,
 	SiWebstorm,
 } from "react-icons/si";
-import { TbBrandCpp } from "react-icons/tb";
+import { TbBrandCpp, TbBrandRust } from "react-icons/tb";
 
 const icons = {
 	ts: <BiLogoTypescript color="#3178C6" size={60} className="rounded-xl" />,
 	js: <RiJavascriptFill color="#F7DF1E" size={60} className="rounded-xl" />,
 	py: <IoLogoPython color="#3776AB" size={60} className="rounded-xl" />,
 	cpp: <TbBrandCpp color="#00599C" size={60} className="rounded-xl" />,
+	rust: <TbBrandRust color="#CE412B" size={60} className="rounded-xl" />,
 	html: <FaHtml5 color="#E34F26" size={60} className="rounded-xl" />,
 	css: <SiCss3 color="#1572B6" size={60} className="rounded-xl" />,
 	tl: <RiTailwindCssFill color="#06B6D4" size={60} className="rounded-xl" />,
@@ -51,8 +52,35 @@ const icons = {
 	k8s: <SiKubernetes color="#326CE5" size={60} className="rounded-xl" />,
 	w3: <SiWeb3Dotjs color="#ffffff" size={60} className="rounded-xl" />,
 	github: <FaGithub color="#ffffff" size={60} className="rounded-xl" />,
-	ether: <FaEthereum />,
-	sol: <SiSolana />,
+	ether: <FaEthereum color="#627EEA" size={60} className="rounded-xl" />,
+	sol: <SiSolana color="#9945FF" size={60} className="rounded-xl" />,
+	mern: (
+		<div className="grid grid-cols-2 gap-2 items-center justify-center w-[60px] h-[60px]">
+			<SiMongodb color="#47A248" size={24} />
+			<SiExpress color="#ffffff" size={24} />
+			<FaReact color="#61DAFB" size={24} />
+			<IoLogoPython color="#68A063" size={24} />
+		</div>
+	),
+	web3: (
+		<div className="flex gap-2 items-center justify-center">
+			<SiSolana color="#9945FF" size={28} />
+			<FaEthereum color="#627EEA" size={28} />
+		</div>
+	),
+	languages: (
+		<div className="flex gap-2 items-center justify-center flex-wrap">
+			<TbBrandRust color="#CE412B" size={28} />
+			<TbBrandCpp color="#00599C" size={28} />
+			<BiLogoTypescript color="#3178C6" size={28} />
+		</div>
+	),
+	devops: (
+		<div className="flex gap-2 items-center justify-center">
+			<GrDocker color="#2496ED" size={28} />
+			<SiKubernetes color="#326CE5" size={28} />
+		</div>
+	),
 };
 
 type IconKey = keyof typeof icons;
