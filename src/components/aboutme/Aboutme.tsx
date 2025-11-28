@@ -5,26 +5,17 @@ import { useMemo, useState, useEffect } from "react";
 import { SkillIcon, IconKey } from "./SkillIcon";
 
 const skillsData: Array<{ name: string; icon: IconKey; category: string }> = [
-	{ name: "HTML", icon: "html", category: "frontend" },
-	{ name: "CSS", icon: "css", category: "frontend" },
-	{ name: "JavaScript", icon: "js", category: "frontend" },
 	{ name: "TypeScript", icon: "ts", category: "frontend" },
-	{ name: "React", icon: "react", category: "frontend" },
 	{ name: "Next.js", icon: "next", category: "frontend" },
-	{ name: "Tailwind", icon: "tl", category: "frontend" },
-	{ name: "Python", icon: "py", category: "backend" },
 	{ name: "C++", icon: "cpp", category: "backend" },
 	{ name: "Express", icon: "exp", category: "backend" },
+	{ name: "WebSocket", icon: "ws", category: "backend" },
 	{ name: "FastAPI", icon: "fast", category: "backend" },
-	{ name: "MongoDB", icon: "mongo", category: "database" },
 	{ name: "PostgreSQL", icon: "pg", category: "database" },
-	{ name: "Redis", icon: "redis", category: "database" },
-	{ name: "Git", icon: "git", category: "tools" },
-	{ name: "Github", icon: "github", category: "tools" },
 	{ name: "Docker", icon: "dock", category: "devops" },
 	{ name: "Kubernetes", icon: "k8s", category: "devops" },
-	{ name: "WebSocket", icon: "ws", category: "backend" },
-	{ name: "Web3", icon: "w3", category: "blockchain" },
+	{ name: "Solana", icon: "sol", category: "blockchain" },
+	{ name: "Ethereum", icon: "ether", category: "blockchain" },
 ];
 
 const containerVariants = {
@@ -167,7 +158,7 @@ export default function Aboutme() {
 								and
 								<span className="text-white font-semibold">
 									{" "}
-									DevOps enthusiast
+									DevOps Enthusiast
 								</span>{" "}
 								who loves building scalable, real-world
 								products.
@@ -184,8 +175,8 @@ export default function Aboutme() {
 								backend architecture and cloud-native
 								deployments. I work mostly with{" "}
 								<span className="text-canvora-400">
-									TypeScript, React, Next.js, Express,
-									PostgreSQL, MongoDB, WebSockets
+									TypeScript, Next.js, Express, PostgreSQL,
+									WebSockets
 								</span>
 								, and I enjoy setting up infra with{" "}
 								<span className="text-canvora-400">
@@ -203,7 +194,7 @@ export default function Aboutme() {
 							>
 								My focus leans towards{" "}
 								<span className="text-white font-semibold">
-									backend + DevOps
+									Backend + DevOps
 								</span>
 								, but I like experimenting with frontend design
 								and I'm also diving into{" "}

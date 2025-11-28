@@ -1,6 +1,12 @@
 "use client";
 import { BiLogoPostgresql, BiLogoTypescript } from "react-icons/bi";
-import { FaGitAlt, FaGithub, FaHtml5, FaReact } from "react-icons/fa";
+import {
+	FaEthereum,
+	FaGitAlt,
+	FaGithub,
+	FaHtml5,
+	FaReact,
+} from "react-icons/fa";
 import { GrDocker } from "react-icons/gr";
 import { IoLogoPython } from "react-icons/io5";
 import { RiJavascriptFill, RiTailwindCssFill } from "react-icons/ri";
@@ -12,6 +18,7 @@ import {
 	SiMongodb,
 	SiNextdotjs,
 	SiRedis,
+	SiSolana,
 	SiWeb3Dotjs,
 	SiWebstorm,
 } from "react-icons/si";
@@ -44,6 +51,8 @@ const icons = {
 	k8s: <SiKubernetes color="#326CE5" size={60} className="rounded-xl" />,
 	w3: <SiWeb3Dotjs color="#ffffff" size={60} className="rounded-xl" />,
 	github: <FaGithub color="#ffffff" size={60} className="rounded-xl" />,
+	ether: <FaEthereum />,
+	sol: <SiSolana />,
 };
 
 type IconKey = keyof typeof icons;
