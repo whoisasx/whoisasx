@@ -1,39 +1,25 @@
-# Portfolio Website
+# Adil Shaikh Portfolio
 
-This is a personal portfolio website built with Next.js and TypeScript.
+A focused portfolio for `whoisasx`, centered on agent infrastructure, realtime systems, developer tooling, and engineering notes.
 
-## Tech Stack
-
-- [Next.js](https://nextjs.org/) - React framework for building user interfaces.
-- [TypeScript](https://www.typescriptlang.org/) - Typed JavaScript for robust applications.
-- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development.
-- [Framer Motion](https://www.framer.com/motion/) - A library for creating animations.
-- [React Icons](https://react-icons.github.io/react-icons/) - A collection of popular icon libraries.
-
-## Getting Started
-
-First, install the dependencies:
+## Run locally
 
 ```bash
-bun install
+npm install
+npm run dev
 ```
 
-Then, run the development server:
+The app is built with Next.js and custom CSS. Current content emphasizes:
+
+- Core contribution work on Composio Agent Orchestrator and ReverbCode.
+- API pressure reduction, notification delivery, session lifecycle, and SCM observability.
+- Agent Guardrails Protocol and Canvora as focused project proof points.
+- Technical writing from `https://whoisasx.github.io/my-blogs/`.
+
+## Verify
 
 ```bash
-bun run dev
+npm run lint
+npm run build
+npm audit --omit=dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Project Structure
-
-The project is organized as follows:
-
-- `src/app/`: Contains the main pages of the application.
-- `src/components/`: Contains reusable React components.
-  - `herosection/`: The hero section of the portfolio.
-  - `aboutme/`: The "about me" section.
-  - `projects/`: The projects section.
-- `src/ui/`: Contains custom UI elements.
-- `public/`: Contains static assets like images and videos.
